@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<data>
+    <item>
+        <day>Monday</day>
+        <temperature_in_celsius>28</temperature_in_celsius>
+    </item>
+    <item>
+        <day>Tuesday</day>
+        <temperature_in_celsius>27</temperature_in_celsius>
+    </item>
+    <item>
+        <day>Wednesday</day>
+        <temperature_in_celsius>28</temperature_in_celsius>
+    </item>
+    <item>
+        <day>Thursday</day>
+        <temperature_in_celsius>29</temperature_in_celsius>
+    </item>
+    <item>
+        <day>Friday</day>
+        <temperature_in_celsius>29</temperature_in_celsius>
+    </item>
+    <item>
+        <day>Saturday</day>
+        <temperature_in_celsius>31</temperature_in_celsius>
+    </item>
+    <item>
+        <day>Sunday</day>
+        <temperature_in_celsius>32</temperature_in_celsius>
+    </item>
+</data>
