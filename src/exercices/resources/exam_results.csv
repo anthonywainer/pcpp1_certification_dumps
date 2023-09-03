@@ -1,0 +1,19 @@
+Exam Name,Candidate ID,Score,Grade
+Maths,C000007,44,Fail
+Physics,C000001,50,Fail
+Biology,C000001,30,Fail
+Maths,C000005,50,Fail
+Biology,C000002,45,Fail
+Physics,C000006,66,Fail
+Maths,C000009,74,Pass
+Maths,C000010,74,Pass
+Biology,C000003,70,Pass
+Maths,C000012,55,Fail
+Maths,C000013,33,Fail
+Biology,C000004,88,Pass
+Maths,C000014,90,Pass
+Maths,C000005,82,Pass
+Biology,C000011,23,Fail
+Maths,C000008,44,Fail
+Maths,C000008,54,Fail
+Physics,C000003,54,Fail
